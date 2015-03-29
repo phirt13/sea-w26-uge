@@ -1,0 +1,38 @@
+#Hidden folder where staging area and commits live
+.git/
+
+# a cool fish shortcut for list files
+ll
+
+# a simple way to list files in long format
+ls -l
+
+# a simple way to list files
+ls
+
+# a way to redirect information to sublime
+
+subl .
+
+history > moving_around.txt
+
+#a command to move from directory or to files
+
+cd
+
+#a command to bring up manuals for respective programs
+
+man
+
+#a command to see the history of command entries on terminal
+
+history
+
+  -a way to do this with better organization
+
+  man | less
+
+#a command to see current working diretory
+
+pwd
+
